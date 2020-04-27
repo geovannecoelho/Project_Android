@@ -1,2 +1,2 @@
-# android
-Aulas de Android
+# Android
+Projetos em Android, utilizando Android Studio.
